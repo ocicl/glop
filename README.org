@@ -1,0 +1,10 @@
+* glop
+
+Direct FFI bindings for OpenGL window and context management
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/lispgames/glop.git   |
+| commit  | 45e722a  |
+| systems | glop |
+|---------+-------------------------------------------|
+
